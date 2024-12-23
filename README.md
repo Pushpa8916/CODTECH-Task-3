@@ -1,10 +1,14 @@
 Nmae:Pushpa A M
 
 Company:CODTECH IT SOLUTION
+
 ID:CT6WEBY
+
 Domain:Data Analytics
+
 Duration:December - Feburary 2025
-Mentor
+
+Mentor:Sravani
 
 ### Overview
 Customer Segmentation is one the most important applications of unsupervised learning. Using clustering techniques, companies can identify the several segments of customers allowing them to target the potential user base. In this machine learning project, we will make use of [K-means clustering](https://data-flair.training/blogs/k-means-clustering-tutorial/) which is the essential algorithm for clustering unlabeled dataset. Before ahead in this project, learn what actually customer segmentation is.<br>
